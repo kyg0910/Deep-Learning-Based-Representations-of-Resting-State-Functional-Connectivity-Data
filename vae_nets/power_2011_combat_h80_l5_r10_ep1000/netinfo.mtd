@@ -1,0 +1,5 @@
+model_name: power_2011_combat_h80_l5_r10_ep1000
+input_size: 34980
+hidden_size: 80
+latent_size: 5
+activations: tanh, selu, tanh, tanh

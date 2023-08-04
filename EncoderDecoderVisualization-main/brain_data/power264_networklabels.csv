@@ -1,0 +1,265 @@
+﻿ROI,NetworkLabel
+1,Uncertain
+2,Uncertain
+3,Uncertain
+4,Uncertain
+5,Uncertain
+6,Uncertain
+7,Uncertain
+8,Uncertain
+9,Uncertain
+10,Uncertain
+11,Uncertain
+12,Uncertain
+13,Sensory/somatomotor Hand
+14,Sensory/somatomotor Hand
+15,Sensory/somatomotor Hand
+16,Sensory/somatomotor Hand
+17,Sensory/somatomotor Hand
+18,Sensory/somatomotor Hand
+19,Sensory/somatomotor Hand
+20,Sensory/somatomotor Hand
+21,Sensory/somatomotor Hand
+22,Sensory/somatomotor Hand
+23,Sensory/somatomotor Hand
+24,Sensory/somatomotor Hand
+25,Sensory/somatomotor Hand
+26,Sensory/somatomotor Hand
+27,Sensory/somatomotor Hand
+28,Sensory/somatomotor Hand
+29,Sensory/somatomotor Hand
+30,Sensory/somatomotor Hand
+31,Sensory/somatomotor Hand
+32,Sensory/somatomotor Hand
+33,Sensory/somatomotor Hand
+34,Sensory/somatomotor Hand
+35,Sensory/somatomotor Hand
+36,Sensory/somatomotor Hand
+37,Sensory/somatomotor Hand
+38,Sensory/somatomotor Hand
+39,Sensory/somatomotor Hand
+40,Sensory/somatomotor Hand
+41,Sensory/somatomotor Hand
+42,Sensory/somatomotor Mouth
+43,Sensory/somatomotor Mouth
+44,Sensory/somatomotor Mouth
+45,Sensory/somatomotor Mouth
+46,Sensory/somatomotor Mouth
+47,Cingulo-opercular Task Control
+48,Cingulo-opercular Task Control
+49,Cingulo-opercular Task Control
+50,Cingulo-opercular Task Control
+51,Cingulo-opercular Task Control
+52,Cingulo-opercular Task Control
+53,Cingulo-opercular Task Control
+54,Cingulo-opercular Task Control
+55,Cingulo-opercular Task Control
+56,Cingulo-opercular Task Control
+57,Cingulo-opercular Task Control
+58,Cingulo-opercular Task Control
+59,Cingulo-opercular Task Control
+60,Cingulo-opercular Task Control
+61,Auditory
+62,Auditory
+63,Auditory
+64,Auditory
+65,Auditory
+66,Auditory
+67,Auditory
+68,Auditory
+69,Auditory
+70,Auditory
+71,Auditory
+72,Auditory
+73,Auditory
+74,Default mode
+75,Default mode
+76,Default mode
+77,Default mode
+78,Default mode
+79,Default mode
+80,Default mode
+81,Default mode
+82,Default mode
+83,Default mode
+84,Uncertain
+85,Uncertain
+86,Default mode
+87,Default mode
+88,Default mode
+89,Default mode
+90,Default mode
+91,Default mode
+92,Default mode
+93,Default mode
+94,Default mode
+95,Default mode
+96,Default mode
+97,Default mode
+98,Default mode
+99,Default mode
+100,Default mode
+101,Default mode
+102,Default mode
+103,Default mode
+104,Default mode
+105,Default mode
+106,Default mode
+107,Default mode
+108,Default mode
+109,Default mode
+110,Default mode
+111,Default mode
+112,Default mode
+113,Default mode
+114,Default mode
+115,Default mode
+116,Default mode
+117,Default mode
+118,Default mode
+119,Default mode
+120,Default mode
+121,Default mode
+122,Default mode
+123,Default mode
+124,Default mode
+125,Default mode
+126,Default mode
+127,Default mode
+128,Default mode
+129,Default mode
+130,Default mode
+131,Default mode
+132,Uncertain
+133,Memory retrieval?
+134,Memory retrieval?
+135,Memory retrieval?
+136,Memory retrieval?
+137,Default mode
+138,Ventral attention
+139,Default mode
+140,Uncertain
+141,Uncertain
+142,Uncertain
+143,Visual
+144,Visual
+145,Visual
+146,Visual
+147,Visual
+148,Visual
+149,Visual
+150,Visual
+151,Visual
+152,Visual
+153,Visual
+154,Visual
+155,Visual
+156,Visual
+157,Visual
+158,Visual
+159,Visual
+160,Visual
+161,Visual
+162,Visual
+163,Visual
+164,Visual
+165,Visual
+166,Visual
+167,Visual
+168,Visual
+169,Visual
+170,Visual
+171,Visual
+172,Visual
+173,Visual
+174,Fronto-parietal Task Control
+175,Fronto-parietal Task Control
+176,Fronto-parietal Task Control
+177,Fronto-parietal Task Control
+178,Fronto-parietal Task Control
+179,Fronto-parietal Task Control
+180,Fronto-parietal Task Control
+181,Fronto-parietal Task Control
+182,Uncertain
+183,Uncertain
+184,Uncertain
+185,Uncertain
+186,Fronto-parietal Task Control
+187,Fronto-parietal Task Control
+188,Fronto-parietal Task Control
+189,Fronto-parietal Task Control
+190,Fronto-parietal Task Control
+191,Fronto-parietal Task Control
+192,Fronto-parietal Task Control
+193,Fronto-parietal Task Control
+194,Fronto-parietal Task Control
+195,Fronto-parietal Task Control
+196,Fronto-parietal Task Control
+197,Fronto-parietal Task Control
+198,Fronto-parietal Task Control
+199,Fronto-parietal Task Control
+200,Fronto-parietal Task Control
+201,Fronto-parietal Task Control
+202,Fronto-parietal Task Control
+203,Salience
+204,Salience
+205,Salience
+206,Salience
+207,Salience
+208,Salience
+209,Salience
+210,Salience
+211,Salience
+212,Salience
+213,Salience
+214,Salience
+215,Salience
+216,Salience
+217,Salience
+218,Salience
+219,Salience
+220,Salience
+221,Memory retrieval?
+222,Subcortical
+223,Subcortical
+224,Subcortical
+225,Subcortical
+226,Subcortical
+227,Subcortical
+228,Subcortical
+229,Subcortical
+230,Subcortical
+231,Subcortical
+232,Subcortical
+233,Subcortical
+234,Subcortical
+235,Ventral attention
+236,Ventral attention
+237,Ventral attention
+238,Ventral attention
+239,Ventral attention
+240,Ventral attention
+241,Ventral attention
+242,Ventral attention
+243,Cerebellar
+244,Cerebellar
+245,Cerebellar
+246,Cerebellar
+247,Uncertain
+248,Uncertain
+249,Uncertain
+250,Uncertain
+251,Dorsal attention
+252,Dorsal attention
+253,Uncertain
+254,Uncertain
+255,Sensory/somatomotor Hand
+256,Dorsal attention
+257,Dorsal attention
+258,Dorsal attention
+259,Dorsal attention
+260,Dorsal attention
+261,Dorsal attention
+262,Dorsal attention
+263,Dorsal attention
+264,Dorsal attention
