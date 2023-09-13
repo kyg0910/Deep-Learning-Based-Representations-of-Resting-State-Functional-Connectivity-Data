@@ -36,4 +36,3 @@ We provide implementation codes for training VAEs and generating main figures an
 - torchvision=0.15.1
 - tqdm=4.40.0
 
-## 3. License
